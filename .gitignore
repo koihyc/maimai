@@ -1,1 +1,18 @@
-test
+# 构建产物 / 打包文件
+*.zip
+
+# WorkBuddy 内部数据
+.workbuddy/
+.wbapp_*.genie
+
+# 参赛作品文档流水线产物
+output/
+
+# 历史备份文件
+maimai-original.html
+maimai-v2-backup-20261025.html
+earth-npc-mcd.html
+
+# 系统文件
+.DS_Store
+Thumbs.db
